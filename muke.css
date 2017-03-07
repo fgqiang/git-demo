@@ -1,0 +1,151 @@
+
+
+*{
+	margin:0;
+	padding:0;
+	font-family: "ËÎÌו"}
+.public-header{
+	width:1000px;
+	height:70px;
+	margin:0 366px;
+	float:left;
+	}
+.logo{
+	float:left}
+.nav ul li{
+	list-style-type:none;
+	float:left
+	}
+.nav ul li a{
+	text-decoration:none;
+	display:block;
+	width:100px;
+	height:70px;
+	text-align:center;
+	line-height:70px;
+	font-size:18px;
+	color:#000}
+ ul li a:hover,.menu ul li a:active{
+	background-color: brown;
+}
+.middle-top{
+	width:1000px;
+	height:30px;
+	float:left;
+	margin-top:10px;
+	background:#333}
+.middle-top-left{
+	width:200px;
+	height:30px;
+	float:left;
+	background:#900;
+	font-size:16px;
+	color:#FFF;
+	line-height:30px;
+	text-align:center;
+	}
+.middle-top-right{
+	float:left;
+	font-size:16px;
+	color:#FFF;
+	line-height:30px;
+	padding-left:10px;
+	}
+.middle{
+	width:1000px;
+	height:155px;
+	background:#FFF;
+	margin-top:10px;
+	float:left
+	}
+.middle-1{
+	width:328px;
+	height:153px;
+	float:left;
+	border:1px solid #CCC;
+	text-align:center
+	}
+
+.middle-1,.middle-2,.middle-3{
+	width:330px;
+	height:153px;
+	float:left;
+	border:1px solid #CCC;
+	text-align:center;
+	line-height:25px
+	}
+.middle-2,.middle-3{
+	margin-left:2px;
+	}
+.middle-foot{
+	width:1000px;
+	height:260px;
+	float:left;
+	background:#FFF;
+	margin-top:10px}
+.middle-foot-1,.middle-foot-2,.middle-foot-3{
+	width:330px;
+	height:260px;
+	float:left;
+	border:1px solid #CCC;}
+.middle-foot-2,.middle-foot-3{
+	margin-left:2px;}
+.middle-nav{
+	width:330;
+	height:30px;
+	background:#900;
+	font-size:16px;
+	color:#FFF;
+	padding-left:20px;
+	line-height:30px}
+.middle-body-left{
+	width:50px;
+	height:70px;
+	float:left;}
+.date{
+	width:40px;
+	height:50px;
+	display:inline-block;
+	color:#FFF;
+	border-radius:5px;
+	background:#900;
+	float:left;
+	margin:10px 5px;
+	font-size:14px;
+	line-height:20px;
+	text-align:center}
+.middle-body-right{
+	margin-left:10px;}
+.middle-body-right h5 a{
+	text-decoration:none;
+	font-size:14px;
+	line-height:30px;
+	color:#333}
+.middle-body-right p a{
+	text-decoration:none;
+	color:#333;
+	font-size:12px;
+	line-height:20px;}
+.middle-foot-body{
+	margin:20px 20px 0 20px}
+.middle-foot-body img{
+	width:290px;
+	height:110px;
+	}
+.middle-foot-body p{
+	font-size:14px;
+	line-height:20px}
+.middle-foot3{
+	margin-left:5px;
+	margin-top:5px}
+.public-foot{
+	width:1000px;
+	height:50px;
+	float:left;
+	margin-top:5px;
+	background:#CCC}
+.public-foot p{
+	text-align:center;
+	line-height:60px;}
+
+
